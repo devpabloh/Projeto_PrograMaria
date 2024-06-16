@@ -135,5 +135,13 @@ footer{
  margin-left: .5rem;
 }
 
+@media screen and (max-width:768px) {
+    .container_header{ /* Wrapper */
+
+    }
+    
+    
+}
+
 
 
